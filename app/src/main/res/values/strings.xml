@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">TimeManager</string>
     <string name="channel_name">Control</string>
-    <string name="channel_description">Notification to control app</string>
-    <string name="channel_id">"TimeManagerId"</string>
 </resources>
